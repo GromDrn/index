@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "SQL. Часть 1" - `Громов Андрей`
+# Домашнее задание к занятию "Индексы" - `Громов Андрей`
 
 ---
 
@@ -14,13 +14,13 @@
 
 ### Задание 2
 
-![Скриншот 2](https://github.com/GromDrn/)
+![Скриншот 1](https://github.com/GromDrn/index/blob/main/Screenshots/1.jpg)
 ---
-![Скриншот 2](https://github.com/GromDrn/)
+![Скриншот 2](https://github.com/GromDrn/index/blob/main/Screenshots/2-2.jpg)
 ---
-![Скриншот 2](https://github.com/GromDrn/)
+![Скриншот 3](https://github.com/GromDrn/index/blob/main/Screenshots/2-3.jpg)
 ---
-![Скриншот 2](https://github.com/GromDrn/)
+![Скриншот 4](https://github.com/GromDrn/index/blob/main/Screenshots/2-4.jpg)
 
 ---
 
